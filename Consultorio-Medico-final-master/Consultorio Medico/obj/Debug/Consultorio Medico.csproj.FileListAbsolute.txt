@@ -1,0 +1,56 @@
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.exe.config
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.exe
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\bin\Debug\Consultorio Medico.pdb
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\bin\Debug\MySql.Data.dll
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.csprojAssemblyReference.cache
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.Properties.Resources.resources
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.GenerateResource.cache
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.CoreCompileInputs.cache
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.CopyComplete
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.exe
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio Medico.pdb
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.Form1.resources
+C:\Users\geros\source\repos\Consultorio Medico\Consultorio Medico\obj\Debug\Consultorio_Medico.AgregarPaciente.resources
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\bin\Debug\Consultorio Medico.exe.config
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\bin\Debug\Consultorio Medico.exe
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\bin\Debug\Consultorio Medico.pdb
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\bin\Debug\MySql.Data.dll
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio Medico.csprojAssemblyReference.cache
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio_Medico.AgregarPaciente.resources
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio_Medico.Form1.resources
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio_Medico.Properties.Resources.resources
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.GenerateResource.cache
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.CoreCompileInputs.cache
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.CopyComplete
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio Medico.exe
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio Medico.pdb
+C:\Users\geros\OneDrive\Desktop\FinalLaboratorio-master\Consultorio Medico\obj\Debug\Consultorio_Medico.AgregarRegistro.resources
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\Consultorio Medico.exe.config
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\Consultorio Medico.exe
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\Consultorio Medico.pdb
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\MySql.Data.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\Google.Protobuf.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\Zstandard.Net.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\Renci.SshNet.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\System.Memory.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\System.Buffers.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\bin\Debug\MySql.Data.xml
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio Medico.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio Medico.exe.config
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio_Medico.AgregarRegistro.resources
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio_Medico.AgregarPaciente.resources
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio_Medico.Form1.resources
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio_Medico.Properties.Resources.resources
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio Medico.csproj.CopyComplete
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio Medico.exe
+C:\Users\tomas\Desktop\Consultorio-Medico-final-master\Consultorio-Medico-final-master\Consultorio Medico\obj\Debug\Consultorio Medico.pdb
