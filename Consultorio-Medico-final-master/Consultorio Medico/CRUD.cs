@@ -14,7 +14,7 @@ namespace Consultorio_Medico
     {
         MessageBoxButtons buttons = MessageBoxButtons.OK;
 
-        MySqlConnection conexion = new MySqlConnection("Server=localhost; Database=consultoriodb; Uid=root; Pwd=115994");
+        MySqlConnection conexion = new MySqlConnection("Server=localhost; Database=consultoriodb; Uid=root; Pwd=");
 
         public void Conexion()
         {
